@@ -1,0 +1,11 @@
+C:\Users\lbrock\OneDrive - Knex\Dev.Build_Repos\shoppingLISTlab\shoppingLISTlab\bin\Debug\netcoreapp3.1\shoppingLISTlab.exe
+C:\Users\lbrock\OneDrive - Knex\Dev.Build_Repos\shoppingLISTlab\shoppingLISTlab\bin\Debug\netcoreapp3.1\shoppingLISTlab.deps.json
+C:\Users\lbrock\OneDrive - Knex\Dev.Build_Repos\shoppingLISTlab\shoppingLISTlab\bin\Debug\netcoreapp3.1\shoppingLISTlab.runtimeconfig.json
+C:\Users\lbrock\OneDrive - Knex\Dev.Build_Repos\shoppingLISTlab\shoppingLISTlab\bin\Debug\netcoreapp3.1\shoppingLISTlab.runtimeconfig.dev.json
+C:\Users\lbrock\OneDrive - Knex\Dev.Build_Repos\shoppingLISTlab\shoppingLISTlab\bin\Debug\netcoreapp3.1\shoppingLISTlab.dll
+C:\Users\lbrock\OneDrive - Knex\Dev.Build_Repos\shoppingLISTlab\shoppingLISTlab\bin\Debug\netcoreapp3.1\shoppingLISTlab.pdb
+C:\Users\lbrock\OneDrive - Knex\Dev.Build_Repos\shoppingLISTlab\shoppingLISTlab\obj\Debug\netcoreapp3.1\shoppingLISTlab.csprojAssemblyReference.cache
+C:\Users\lbrock\OneDrive - Knex\Dev.Build_Repos\shoppingLISTlab\shoppingLISTlab\obj\Debug\netcoreapp3.1\shoppingLISTlab.AssemblyInfoInputs.cache
+C:\Users\lbrock\OneDrive - Knex\Dev.Build_Repos\shoppingLISTlab\shoppingLISTlab\obj\Debug\netcoreapp3.1\shoppingLISTlab.AssemblyInfo.cs
+C:\Users\lbrock\OneDrive - Knex\Dev.Build_Repos\shoppingLISTlab\shoppingLISTlab\obj\Debug\netcoreapp3.1\shoppingLISTlab.dll
+C:\Users\lbrock\OneDrive - Knex\Dev.Build_Repos\shoppingLISTlab\shoppingLISTlab\obj\Debug\netcoreapp3.1\shoppingLISTlab.pdb
